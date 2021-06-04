@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/NWarila">
   <img height="180" width="49%" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
 </a>
+	
 <a href="https://github.com/NWarila">
-	<img  src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
+	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
 </a>
+</div>
