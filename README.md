@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/NWarila">
-  <img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
+  <img height="180" width="48%" align="center" style="vertical-align: text-top;margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
 </a>
 	
 <a href="https://github.com/NWarila">
