@@ -41,9 +41,8 @@ Here are some ideas to get you started:
 ## The stats
 <br>
 <a href="https://github.com/NWarila">
-	<img height="180" width="100%" align="center" style="margin:0;padding:0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default />
+	<img height="180" width="100%" align="center" style="margin:0;padding:0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
 </a>
-										       ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default)
 
 <a href="https://github.com/NWarila">
   <img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
