@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=PowerShell&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/HTML-8892BF.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/PowerShell-F7DF1E.svg?&style=for-the-badge&logo=PowerShell&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
