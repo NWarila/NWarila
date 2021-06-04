@@ -85,8 +85,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 
 <br>
-![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=00a1f1)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=00a1f1)
+![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/OS-VMWare-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
