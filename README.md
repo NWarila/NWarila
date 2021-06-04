@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## The stats
 <br>
-
+<div>
 <a href="https://github.com/NWarila">
   <img height="180" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
   <img height="180" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
 </a>
 <a href="https://github.com/NWarila">
-	<img  src=https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
+	<img  src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
 </a>
