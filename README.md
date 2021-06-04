@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 ## The stats
-<div id='Stats'>
+<div Title='Stats'>
 	<br>
 	<a href="https://github.com/NWarila">
 	  <img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
