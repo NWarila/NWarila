@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <br>
 	
-![]("https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197")
+![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 
