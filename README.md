@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 </p>
 
 ## The stats
-<p align="center" width=98%>
+<p align="center" width=100%>
 	<img width="59%" height="180" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true" />
 	<img width="39%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" />
-	<img width="100%" height="180" src=https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
+	<img width="100%"  src=https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
 </p>
 <!-- <p align="center">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila" />
