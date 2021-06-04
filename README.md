@@ -18,26 +18,26 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a" height="25" /> -->
 
 <p align="center">
-	<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/HTML5-8892BF.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/PowerShell-F7DF1E.svg?&style=for-the-badge&logo=PowerShell&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/CSS3-FFCA28.svg?&style=for-the-badge&logo=CSS&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/Polycom-FB7A24.svg?&style=for-the-badge&logo=Polycom&logoColor=white" height="25"/>
-	
-	
-	<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/Windows&#32;Server&#32;2012&#44;2016&#44;2019-00a1f1.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/Windows&#32;7&#44;8&#44;10-00a1f1.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/HTML5-8892BF.svg?&style=for-the-badge&logo=HTML&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PowerShell-F7DF1E.svg?&style=for-the-badge&logo=PowerShell&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-FFCA28.svg?&style=for-the-badge&logo=CSS&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Polycom-FB7A24.svg?&style=for-the-badge&logo=Polycom&logoColor=white" height="25"/>
+
+
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Windows&#32;Server&#32;2012&#44;2016&#44;2019-00a1f1.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Windows&#32;7&#44;8&#44;10-00a1f1.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
 </p>
 
 ## The stats
