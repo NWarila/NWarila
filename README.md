@@ -29,8 +29,8 @@
 ![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Software-PDQ&#32Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Software-PDQ&#32Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-PDQ&#32;Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-PDQ&#32;Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershelle&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
