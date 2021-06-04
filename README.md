@@ -26,20 +26,12 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-PDQ&#32Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-PDQ&#32Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershelle&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <details>
@@ -61,12 +53,11 @@
 
 <br>
 	
-![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+
 	
 </details>
 <!-- Not really feeling this section.
