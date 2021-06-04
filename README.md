@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true" />
-	<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact" />
+	<img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true" />
+	<img width="38%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact" />
 </p>
 <!-- <p align="center">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila" />
