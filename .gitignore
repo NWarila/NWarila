@@ -1,0 +1,39 @@
+# Deny all by default so nothing is tracked without an intentional decision.
+**
+
+# Allow the allowlist itself so tracked scope stays auditable.
+!/.gitignore
+
+# Allow git attributes so line endings and diffs stay deterministic.
+!/.gitattributes
+
+# Allow editor config so formatting rules are portable across editors.
+!/.editorconfig
+
+# Allow markdownlint config so local and CI markdown rules match.
+!/.markdownlint-cli2.jsonc
+
+# Allow license so this repo itself remains clearly licensed.
+!/LICENSE
+
+# Allow the profile README that renders on the public GitHub profile page.
+!/README.md
+
+# Allow the auto-generated long-form resume consumed by the profile.
+!/RESUME.md
+
+# Allow the profile repository design document.
+!/DESIGN.md
+
+# Allow the resume release version marker used by the sync workflow.
+!/.resume-version
+
+# Allow DOCX resume artifacts synced from the private resume repo.
+!/*.docx
+
+# Allow the GitHub config directory so workflows and automation are versioned.
+!/.github/
+!/.github/dependabot.yml
+!/.github/workflows/
+!/.github/workflows/ci.yml
+!/.github/workflows/resume-sync.yml
