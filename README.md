@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a" height="25" />
+<!-- <img src="https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a" height="25" /> -->
 
 <p align="center">
 	<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -39,13 +39,9 @@ Here are some ideas to get you started:
 </p>
 
 ## The stats
-<p align="center" width=100%>
+<p align="center">
 	<img width="59%" height="180" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true" />
 	<img width="39%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" />
 	<img width="100%"  src=https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-<!-- <p align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila" />
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=NWarila&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy" />
- </p> -->
