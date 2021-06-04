@@ -40,22 +40,16 @@ Here are some ideas to get you started:
 
 ## The stats
 <br>
-<a href="https://github.com/NWarila">
-  <img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</a>
 
-<a href="https://github.com/NWarila">
-  <img height="180" width="48%" align="center" style="vertical-align: text-top;margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
-</a>
+<img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180" width="48%" align="center" style="vertical-align: text-top;margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
+<img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
 
-<a href="https://github.com/NWarila">
-	<img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
-</a>
 <br>
 
 ## 💼 Skills
 
-[![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)(http://google.com)]
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
@@ -109,17 +103,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
-
-<details>
-<summary>More Skills</summary>
-
-[](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-</details>
-
 <!-- Not really feeling this section.
 <a href="https://github.com/NWarila">
 	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
