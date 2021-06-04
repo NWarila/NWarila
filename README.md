@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Windows%2010-092D1F.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/Windows%2010-092D1F.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
 	<img src="https://img.shields.io/badge/Windows&#32;Server&#32;2012&#44;2016&#44;2019-092D1F.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
-	<img src="https://img.shields.io/badge/Windows&#32;7&#44;8&#44;10&-092D1F.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
+	<img src="https://img.shields.io/badge/Windows&#32;7&#44;8&#44;10-092D1F.svg?&style=for-the-badge&logo=Windows&logoColor=white" height="25"/>
 </p>
 
 ## The stats
