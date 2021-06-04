@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 ## The stats
 <br>
-<div width="100%" align="center">
 <a href="https://github.com/NWarila">
   <img height="180" width="48%" align="left" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
@@ -52,4 +51,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/NWarila">
 	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
 </a>
-</div>
+<br>
