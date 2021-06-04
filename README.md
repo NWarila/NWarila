@@ -85,12 +85,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 
 <br>
+![](https://img.shields.io/badge/OS-https://img.shields.io/badge/Windows&#32;Server&#32;2012&#44;2016&#44;2019-00a1f1.svg-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-00a1f1.svg-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-VMWare-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 	
 </details>
 <!-- Not really feeling this section.
