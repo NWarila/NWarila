@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## The stats
 <br>
-<div width="100%">
+<div width="100%" align="center">
 <a href="https://github.com/NWarila">
   <img height="180" width="49%" align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
