@@ -1,0 +1,21 @@
+# Normalize tracked text files to LF for stable diffs across platforms.
+* text=auto eol=lf
+
+# Keep markdown readable in diffs and consistently normalized.
+*.md text eol=lf diff=markdown
+
+# Keep GitHub config files normalized for reliable review and automation.
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Keep JSON and JSONC config normalized so linting behaves consistently.
+*.json text eol=lf
+*.jsonc text eol=lf
+
+# Keep ignore, attribute, and editor config files normalized for portability.
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.editorconfig text eol=lf
+
+# Treat DOCX resume artifacts as binary so Git does not diff or merge them.
+*.docx binary

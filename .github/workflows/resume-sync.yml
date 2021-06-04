@@ -1,0 +1,126 @@
+name: Resume Sync
+
+on:
+  workflow_dispatch: # manual trigger while resume release flow is being finalized
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Get current tracked release
+        id: current
+        run: |
+          if [ -f .resume-version ]; then
+            echo "tag=$(cat .resume-version)" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag=none" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Get latest release from resume repo
+        id: latest
+        env:
+          GH_TOKEN: ${{ secrets.RESUME_REPO_TOKEN }}
+        run: |
+          release=$(gh release view --repo "${{ vars.RESUME_REPO }}" --json tagName,createdAt --jq '.tagName' 2>/dev/null || echo "")
+          if [ -z "$release" ]; then
+            echo "No releases found in resume repo."
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag=$release" >> "$GITHUB_OUTPUT"
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Compare versions
+        id: compare
+        run: |
+          if [ "${{ steps.latest.outputs.found }}" != "true" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          elif [ "${{ steps.current.outputs.tag }}" = "${{ steps.latest.outputs.tag }}" ]; then
+            echo "Already up to date (${{ steps.current.outputs.tag }})."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "New release: ${{ steps.latest.outputs.tag }} (was: ${{ steps.current.outputs.tag }})"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download release assets
+        if: steps.compare.outputs.skip == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.RESUME_REPO_TOKEN }}
+        run: |
+          tag="${{ steps.latest.outputs.tag }}"
+          gh release download "$tag" \
+            --repo "${{ vars.RESUME_REPO }}" \
+            --dir ./resume-assets \
+            --skip-existing
+
+          echo "Downloaded assets:"
+          ls -la ./resume-assets/
+
+      - name: Stage resume files
+        if: steps.compare.outputs.skip == 'false'
+        run: |
+          # Copy Markdown resume to repo root
+          if [ -f ./resume-assets/RESUME.md ]; then
+            cp ./resume-assets/RESUME.md ./RESUME.md
+          fi
+
+          # Copy DOCX files to repo root
+          for f in ./resume-assets/*.docx; do
+            [ -f "$f" ] && cp "$f" ./
+          done
+
+          # Update tracked version
+          echo "${{ steps.latest.outputs.tag }}" > .resume-version
+
+          rm -rf ./resume-assets
+
+      - name: Create pull request
+        if: steps.compare.outputs.skip == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          tag="${{ steps.latest.outputs.tag }}"
+          branch="resume-sync/${tag}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "$branch"
+          git add RESUME.md .resume-version *.docx
+          if git diff --cached --quiet; then
+            echo "No file changes to commit."
+            exit 0
+          fi
+          git commit -m "sync: update resume to ${tag}"
+
+          existing_prs=$(gh pr list --head "$branch" --json number --jq 'length')
+          if [ "$existing_prs" -gt 0 ]; then
+            echo "A pull request for $branch already exists. Updating branch."
+            git push --force-with-lease origin "$branch"
+            exit 0
+          fi
+
+          git push origin "$branch"
+
+          gh pr create \
+            --title "sync: update resume to ${tag}" \
+            --body "$(cat <<EOF
+          Automated sync from the private resume repository.
+
+          **Release:** \`${tag}\`
+
+          This PR was created by the nightly resume-sync workflow. Review the
+          updated resume files and merge when ready.
+          EOF
+          )" \
+            --base main \
+            --head "$branch"
