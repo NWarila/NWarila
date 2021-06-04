@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 	<a href="https://github.com/NWarila">
 		<img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
 	</a>
-
-	<!-- Not really feeling this section.
-	<a href="https://github.com/NWarila">
-		<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
-	</a>
-	-->
 	<br>
 </div>
+
+<!-- Not really feeling this section.
+<a href="https://github.com/NWarila">
+	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
+</a>
+-->
