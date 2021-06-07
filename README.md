@@ -5,10 +5,10 @@ I am a seasoned IT professional with a little over 10 years experience working o
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on </li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>🔭 I’m currently working on streamlined code development/deployment in IT systems.</li>
+<li>🧐 Learning about <strong>multi-level networking</strong>, <strong>computer vision</strong>, and <strong>machine learning</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/NWarila">Github</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>out-of-band management, system security, powershell/python automation.</strong>.</li>
 <!--<li>📙 Check out my <a href="#">resume</a>.</li>-->
 <li>🎉 Fun Fact</li>
 </ul>
