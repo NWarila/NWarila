@@ -1,6 +1,6 @@
 <!-- **NWarila/NWarila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### Hey there, my names Nick.
-I am a seasoned IT professional with a little over 10 years experience working on some of the largest and most complex IT infrastructures in the world. My primary focus career focus is information Technology (IT) system security and building secure and resilient systems through best practices and automation. My driving philosophy is work smarter not harder; automate and eliminate wherever feasible. 
+### Hey there! My names Nick.
+I am a seasoned IT professional with a little over 10 years experience working on some of the largest and most complex IT infrastructures in the world. My primary focus career focus is information Technology (IT) system security and building secure and resilient systems through best practices and automation. My driving philosophy is work smarter not harder.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -9,16 +9,15 @@ I am a seasoned IT professional with a little over 10 years experience working o
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/NWarila">Github</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="#">resume</a>.</li>
+<!--<li>📙 Check out my <a href="#">resume</a>.</li>-->
 <li>🎉 Fun Fact</li>
 </ul>
-
 
 ## 📈 The stats
 <br>
 <div align="center">
-<img height="180" width="48%" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180" width="48%" style="margin:0;padding:0;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
+<img height="180" width="48%" style="border:none;margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" width="48%" style="margin:0;padding:0;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8&hide_border=true" alt="Nicks's GitHub Stats" />
 <img width="100%" style="margin:0;padding:0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
 </div>
 <br>
