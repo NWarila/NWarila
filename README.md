@@ -34,7 +34,8 @@
 <img src="https://img.shields.io/badge/Software-PDQ&#32;Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />
 <img src="https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershelle&logoColor=white&color=4AB197" />
 <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-RedHat&#32;6.x&#447.x;-informational?style=flat&logo=Linux&logoColor=white&color=4AB197" />&nbsp;\
+<img src="https://img.shields.io/badge/OS-RedHat%206.x,7.x-informational?style=flat&logo=Windows&logoColor=white&color=4AB197%22" />&nbsp;
+	
 <details>
 <summary>Full List</summary>
 <p>Operating Systems</p><!-- Operating Systems -->
