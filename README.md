@@ -1,3 +1,10 @@
+<style>
+#skills img {
+	align: left;
+	height: 20px;
+}
+</style>
+
 ### Hi there 👋
 
 <!--
@@ -25,6 +32,7 @@
 <br>
 
 ## 💼 Skills
+<div id="skills">
 <br /><!-- Top Skills -->
 
 <img src="https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" height="20"/>
@@ -57,6 +65,7 @@
 <img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" height="20"/>
 
 </details>
+</div>
 <!-- Not really feeling this section.
 <a href="https://github.com/NWarila">
 	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
