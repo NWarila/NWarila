@@ -2,10 +2,11 @@
 #skills img {
 	align: left;
 	height: 20px;
-	Padding-Top: 2px;
-	Padding-Right: 5px;
-	Padding-Bottom: 2px;
-	Padding-Left: 5px;
+	Padding: 0;
+	Margin-Top: 2px;
+	Margin-Right: 5px;
+	Margin-Bottom: 2px;
+	Margin-Left: 5px;
 }
 </style>
 
