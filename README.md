@@ -37,7 +37,7 @@
 
 <details>
 <summary>Full List</summary>
-<br /> <!-- Operating Systems -->
+<p>Operating Systems</p><br /> <!-- Operating Systems -->
 <img src="https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
