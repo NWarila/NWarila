@@ -48,14 +48,14 @@
 <img src="https://img.shields.io/badge/OS-Windows%20Server%202016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <br /> <!-- Hardware -->
-<img src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197" />&nbsp;
 <br /> <!-- Software -->
-<img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />&nbsp;
 
 </details>
 </div>
