@@ -36,7 +36,7 @@
 
 <details>
 <summary>More Skills</summary>
-<br> <!-- Operating Systems -->
+<br /> <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
@@ -46,12 +46,12 @@
 ![](https://img.shields.io/badge/OS-Windows%20;Server%202012%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows%20Server%202016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-<br> <!-- Hardware -->
+<br /> <!-- Hardware -->
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-<br> <!-- Software -->
+<br /> <!-- Software -->
 ![](https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
