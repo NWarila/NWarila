@@ -18,9 +18,9 @@
 ## 📈 The stats
 <br>
 <div align="center">
-<img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180" width="48%" align="center" style="margin:0;padding:0;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
-<img width="100%" align="center" style="margin:0;padding:0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
+<img height="180" width="48%" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180" width="48%" style="margin:0;padding:0;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NWarila&layout=compact&langs_count=8" alt="Nicks's GitHub Stats" />
+<img width="100%" style="margin:0;padding:0;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NWarila&theme=default" />
 </div>
 <br>
 
