@@ -37,15 +37,15 @@
 <details>
 <summary>More Skills</summary>
 <br> <!-- Operating Systems -->
-![](https://img.shields.io/badge/OS-Windows&#32;7-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;8-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;20108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2008&#32;R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#32;R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%20Server%2020108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%20Server%202008%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%20Server%202012-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%20;Server%202012%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%20Server%202016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 <br> <!-- Hardware -->
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
