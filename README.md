@@ -8,6 +8,7 @@ Margin-Right: 5px;
 Margin-Bottom: 2px;
 Margin-Left: 5px;
 }
+	
 </style>
 
 ### Hi there 👋
@@ -50,15 +51,15 @@ Margin-Left: 5px;
 <details>
 <summary>More Skills</summary>
 <br /> <!-- Operating Systems -->
-<img src="https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%20Server%2020108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%20Server%202008%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%20Server%202012-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%20;Server%202012%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%20Server%202016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%20Server%2020108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%20Server%202008%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%20Server%202012-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%20;Server%202012%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%20Server%202016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img style="align:left;height:20px;Margin:2px,5px;" src="https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
 <br /> <!-- Hardware -->
 <img src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197" />
 <img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197" />
