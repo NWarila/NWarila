@@ -30,12 +30,11 @@
 
 <img src="https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
 <img src="https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Software-PDQ&#32;Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/Software-PDQ&#32;Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Software-PDQ&#32;Deploy,Inventory-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />
 <img src="https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershelle&logoColor=white&color=4AB197" />
 <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" />
-<img src="https://img.shields.io/badge/OS-RedHat%206.x,7.x-informational?style=flat&logo=Windows&logoColor=white&color=4AB197%22" />&nbsp;
-	
+<img src="https://img.shields.io/badge/OS-RedHat%206.x,7.x-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+
 <details>
 <summary>Full List</summary>
 <p>Operating Systems</p><!-- Operating Systems -->
@@ -50,21 +49,24 @@
 <img src="https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-RedHat%206.x-informational?style=flat&logo=Linux&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-RedHat%207.x-informational?style=flat&logo=Linux&logoColor=white&color=4AB197" />&nbsp;
+	
 <p>Hardware</p>
-<img src="https://img.shields.io/badge/Polycom-VXX%20Series-informational?style=flat&logo=Polycom&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Dell-Workstations-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Dell-Servers-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Dell-Networking-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/HP-Workstations-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/HP-Servers-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Cisco-Networking-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Cisco-ASA-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Polycom%20VXX%20Series-informational?style=flat&logo=Polycom&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Dell%20Workstations-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Dell%20Servers-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Dell%20Networking-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-HP%20Workstations-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-HP%20Servers-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Cisco%20Networking-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Cisco%20ASA-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
 
 <p>Software</p>
 <img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Cisco-AnyConnect-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-Cisco%20AnyConnect-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-PDQ%20Inventory-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Software-PDQ%20Deploy-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />
 	
 <p>Code</p>
 <img src="https://img.shields.io/badge/Code-Powershell%203.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
