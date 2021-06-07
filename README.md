@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-RedHat%206.x-informational?style=flat&logo=Linux&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-RedHat%207.x-informational?style=flat&logo=Linux&logoColor=white&color=4AB197" />
-	
+
 <p>Hardware</p>
 <img src="https://img.shields.io/badge/Hardware-Polycom%20VXX%20Series-informational?style=flat&logo=Poly&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-Dell%20Workstations-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
@@ -61,8 +61,9 @@
 <img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-Cisco%20AnyConnect-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-PDQ%20Inventory-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Software-PDQ%20Deploy-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />
-	
+<img src="https://img.shields.io/badge/Software-PDQ%20Deploy-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-Nessus-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />
+
 <p>Code</p>
 <img src="https://img.shields.io/badge/Code-Powershell%203.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-Powershell%204.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
@@ -79,7 +80,12 @@
 	
 <p>Other</p>
 <img src="https://img.shields.io/badge/Science-Computer%20Vision-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Science-Machine%20Learning-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Science-Machine%20Learning-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Technologies-DHCP-informational?style=flat&logo=DHCP&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Technologies-NTP-informational?style=flat&logo=NTP&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Technologies-PXE%20Boot-informational?style=flat&logo=PXE&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Technologies-SMTP-informational?style=flat&logo=SMTP&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Technologies-Web%20Servers-informational?style=flat&logo=Internet&logoColor=white&color=4AB197" />
 	
 </details>
 
