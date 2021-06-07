@@ -53,7 +53,7 @@ I am a seasoned IT professional with a little over 10 years experience working o
 <img src="https://img.shields.io/badge/Hardware-HP%20Workstations-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-HP%20Servers-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-Cisco%20Networking-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Hardware-Cisco%20ASA-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" /
+<img src="https://img.shields.io/badge/Hardware-Cisco%20ASA-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />
 
 <p>Software</p>
 <img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />&nbsp;
