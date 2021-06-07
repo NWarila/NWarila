@@ -37,7 +37,7 @@
 <details>
 <summary>More Skills</summary>
 <br /> <!-- Operating Systems -->
-![](https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![]("https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197")
 ![](https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows%20Server%2020108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
