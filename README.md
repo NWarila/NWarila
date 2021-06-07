@@ -1,5 +1,5 @@
 <style>
-#skills img {
+#Skills img {
 	align: left;
 	height: 20px;
 	Padding: 0;
@@ -40,12 +40,12 @@
 <div id="skills">
 <br /><!-- Top Skills -->
 
-<img src="https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" height="20"/>
-<img src="https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197" height="20"/>
-<img src="https://img.shields.io/badge/Software-PDQ&#32;Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" height="20"/>
-<img src="https://img.shields.io/badge/Software-PDQ&#32;Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" height="20"/>
-<img src="https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershelle&logoColor=white&color=4AB197" height="20"/>
-<img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" height="20"/>
+<img src="https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Software-PDQ&#32;Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Software-PDQ&#32;Inventory-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=Powershelle&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" />
 
 <details>
 <summary>More Skills</summary>
