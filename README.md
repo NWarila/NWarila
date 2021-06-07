@@ -1,6 +1,6 @@
 <!-- **NWarila/NWarila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Hey there! My names Nick.
-I am a seasoned IT professional with a little over 10 years experience working on some of the largest and most complex IT infrastructures in the world. My primary focus career focus is information Technology (IT) system security and building secure and resilient systems through best practices and automation. My driving philosophy is work smarter not harder.
+<p>I am a seasoned IT professional with a little over 10 years experience working on some of the largest and most complex IT infrastructures in the world. My primary focus career focus is information Technology (IT) system security and building secure and resilient systems through best practices and automation. My driving philosophy is work smarter not harder.</p><br />
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
