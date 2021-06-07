@@ -15,7 +15,7 @@
 </ul>
 
 
-## The stats
+## 📈 The stats
 <br>
 <div align="center">
 <img height="180" width="48%" align="center" style="margin:0;padding:0;" src="https://github-readme-stats.vercel.app/api?username=NWarila&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -25,8 +25,8 @@
 <br>
 
 ## 💼 Skills
+<br /><!-- Top Skills -->
 
-![](https://img.shields.io/badge/OS-Windows&#32;7&#44;8&#44;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-VMWare&#32;6.0&#44;6.5&#44;6.7&#44;7.0-informational?style=flat&logo=VMWare&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-PDQ&#32;Deploy-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
@@ -36,21 +36,26 @@
 
 <details>
 <summary>More Skills</summary>
-<br>
-
+<br> <!-- Operating Systems -->
+![](https://img.shields.io/badge/OS-Windows&#32;7-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;8-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;10-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;20108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2008&#32;R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#32;R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OS-Windows&#32;Server&#32;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+<br> <!-- Hardware -->
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-
-<br>
-	
-
+<br> <!-- Software -->
 ![](https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
-	
 </details>
 <!-- Not really feeling this section.
 <a href="https://github.com/NWarila">
