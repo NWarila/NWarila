@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" />
 
 <details>
-<summary>More Skills</summary>
+<summary>Full List</summary>
 <br /> <!-- Operating Systems -->
 <img src="https://img.shields.io/badge/OS-Windows%207-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%208-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
@@ -44,14 +44,15 @@
 <img src="https://img.shields.io/badge/OS-Windows%20Server%2020108-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%20Server%202008%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%20Server%202012-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/OS-Windows%20;Server%202012%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/OS-Windows%20Server%202012%20R2-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%20Server%202016-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/OS-Windows%20Serve%202019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <br /> <!-- Hardware -->
-<img src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Polycom-VXX%20Series-informational?style=flat&logo=Polycom&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Dell-Workstations-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Dell-Servers-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/HP-Workstations-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/HP-Servers-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
 <br /> <!-- Software -->
 <img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197" />&nbsp;
