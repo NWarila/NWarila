@@ -53,16 +53,23 @@
 <img src="https://img.shields.io/badge/Hardware-HP%20Workstations-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-HP%20Servers-informational?style=flat&logo=HP&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-Cisco%20Networking-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Hardware-Cisco%20ASA-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Hardware-Cisco%20ASA-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-GD%20Taclane-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Palo%20Alto%20Firewalls-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />
 
 <p>Software</p>
 <img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-Confluence-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-Cisco%20AnyConnect-informational?style=flat&logo=Cisco&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-PDQ%20Inventory-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-PDQ%20Deploy-informational?style=flat&logo=PDQ&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Software-Nessus-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Software-Nessus-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-BMC%20Remedy-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-DISA%20SCAP-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-Tennet%20Nessus-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Software-Nagios-informational?style=flat&logo=Tennable&logoColor=white&color=4AB197" />
 
 <p>Code</p>
 <img src="https://img.shields.io/badge/Code-Powershell%203.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
@@ -73,7 +80,8 @@
 <img src="https://img.shields.io/badge/Code-Powershell%207.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-Powershell%20Core-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-Python%203.9-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Code-MSDOSinformational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-MSDOS-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Code-VBScript-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-HTML%204-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-HTML%205-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-CSS%203-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197" />
@@ -85,7 +93,8 @@
 <img src="https://img.shields.io/badge/Technologies-NTP-informational?style=flat&logo=NTP&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Technologies-PXE%20Boot-informational?style=flat&logo=PXE&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Technologies-SMTP-informational?style=flat&logo=SMTP&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Technologies-Web%20Servers-informational?style=flat&logo=Internet&logoColor=white&color=4AB197" />
+<img src="https://img.shields.io/badge/Technologies-Web%20Servers-informational?style=flat&logo=Internet&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Technologies-DFS-informational?style=flat&logo=Internet&logoColor=white&color=4AB197" />
 	
 </details>
 
