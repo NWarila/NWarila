@@ -46,7 +46,7 @@ I am a seasoned IT professional with a little over 10 years experience working o
 <img src="https://img.shields.io/badge/OS-RedHat%207.x-informational?style=flat&logo=Linux&logoColor=white&color=4AB197" />
 	
 <p>Hardware</p>
-<img src="https://img.shields.io/badge/Hardware-Polycom%20VXX%20Series-informational?style=flat&logo=Polycom&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Hardware-Polycom%20VXX%20Series-informational?style=flat&logo=Poly&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-Dell%20Workstations-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-Dell%20Servers-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Hardware-Dell%20Networking-informational?style=flat&logo=Dell&logoColor=white&color=4AB197" />&nbsp;
