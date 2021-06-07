@@ -57,7 +57,19 @@
 <img src="https://img.shields.io/badge/Software-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197" />&nbsp;
-
+<br /> <!-- Code -->
+<img src="https://img.shields.io/badge/Code-Powershell%203.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Powershell%204.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Powershell%205.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Powershell%205.1-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Powershell%206.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Powershell%207.0-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Powershell%20Core-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-Python%203.9-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-MSDOSinformational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-HTML%204-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-HTML%205-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-CSS%203-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
 </details>
 </div>
 <!-- Not really feeling this section.
