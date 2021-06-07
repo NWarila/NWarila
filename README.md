@@ -25,7 +25,6 @@
 <br>
 
 ## 💼 Skills
-<div id="skills">
 <br /><!-- Top Skills -->
 
 <img src="https://img.shields.io/badge/OS-Windows&#32;Server&#32;2012&#44;2016&#44;2019-informational?style=flat&logo=Windows&logoColor=white&color=4AB197" />
@@ -79,10 +78,14 @@
 <img src="https://img.shields.io/badge/Code-Python%203.9-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-MSDOSinformational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
 <img src="https://img.shields.io/badge/Code-HTML%204-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Code-HTML%205-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
-<img src="https://img.shields.io/badge/Code-CSS%203-informational?style=flat&logo=HTML&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-HTML%205-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Code-CSS%203-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197" />&nbsp;
+	
+<p>Other</p>
+<img src="https://img.shields.io/badge/Science-Computer%20Vision-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
+<img src="https://img.shields.io/badge/Science-Machine%20Learning-informational?style=flat&logo=Python&logoColor=white&color=4AB197" />&nbsp;
+	
 </details>
-</div>
 <!-- Not really feeling this section.
 <a href="https://github.com/NWarila">
 	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nWarila&no-frame=true" />
