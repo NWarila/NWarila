@@ -29,8 +29,16 @@ More public work: [nwarila-platform](https://github.com/nwarila-platform) | [NWa
 
 - [Talos Cluster](https://github.com/nwarila-platform/talos-cluster): Bare-metal Talos Linux Kubernetes platform with GitOps bootstrap, policy-as-code, and hardware-first operational documentation.
 - [GitHub Terraform Framework](https://github.com/nwarila-platform/github-terraform-framework): Terraform framework for managing GitHub repositories, rulesets, security defaults, and shared account-level governance as code.
-- [Compliance Baseline Reference](https://github.com/nwarila-platform/compliance-baseline-reference): Reference archive of configuration and policy files from hardened systems, mapped to DISA STIG, CIS Benchmarks, PCI DSS, and other compliance frameworks for building secure baselines from scratch.
-- [AWS Master](https://github.com/nwarila-platform/aws-master): Terraform landing-zone/control-plane for a 3-account AWS Organization (DEV/TEST/PROD) and shared bootstrap artifacts consumed by all infrastructure repos.
+
+### Framework Templates and Deployer
+
+Canonical type-templates that the production frameworks above derive from. Each template owns a machine-readable contract, reusable workflows pinned by SHA, OPA policy, drift gating against [`NWarila/.github`](https://github.com/NWarila/.github), and Diátaxis-organized documentation with ADRs at org, template, and repo tiers.
+
+- [terraform-runner-template](https://github.com/NWarila/terraform-runner-template): Canonical thin-runner pattern for Terraform consumers — data-only deployers that overlay inventory into a SHA-pinned framework at deploy time. Contract validator + negative fixtures enforce the boundary.
+- [terraform-framework-template](https://github.com/NWarila/terraform-framework-template): Do-nothing reference Terraform framework. Demonstrates the framework module shape (variables, locals composition, dynamic blocks, terraform test) without provider semantics.
+- [ansible-framework-template](https://github.com/NWarila/ansible-framework-template): Reference Ansible framework with a production-shaped role-loader pattern (state machine, OS overlay precedence, override merge, secure temp-dir lifecycle) running credential-free against localhost.
+- [packer-framework-template](https://github.com/NWarila/packer-framework-template): Reference Packer framework with rigorous input validation (path-traversal, injection-safety), build-aware OPA policy, and a credential-free reference build that exercises the manifest contract.
+- [github-terraform-runner](https://github.com/NWarila/github-terraform-runner): Real consumer of `terraform-runner-template` — the deployer that manages every repository in this portfolio as code, with org and template baselines drift-gated on every PR.
 
 ## Selected Certifications
 
