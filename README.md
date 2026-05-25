@@ -29,8 +29,6 @@ More public work: [nwarila-platform](https://github.com/nwarila-platform) | [NWa
 
 - [Talos Cluster](https://github.com/nwarila-platform/talos-cluster): Bare-metal Talos Linux Kubernetes platform with GitOps bootstrap, policy-as-code, and hardware-first operational documentation.
 - [GitHub Terraform Framework](https://github.com/nwarila-platform/github-terraform-framework): Terraform framework for managing GitHub repositories, rulesets, security defaults, and shared account-level governance as code.
-- [Compliance Baseline Reference](https://github.com/nwarila-platform/compliance-baseline-reference): Reference archive of configuration and policy files from hardened systems, mapped to DISA STIG, CIS Benchmarks, PCI DSS, and other compliance frameworks for building secure baselines from scratch.
-- [AWS Master](https://github.com/nwarila-platform/aws-master): Terraform landing-zone/control-plane for a 3-account AWS Organization (DEV/TEST/PROD) and shared bootstrap artifacts consumed by all infrastructure repos.
 
 ### Framework Templates and Deployer
 
