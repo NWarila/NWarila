@@ -36,4 +36,7 @@
 !/.github/renovate.json5
 !/.github/workflows/
 !/.github/workflows/ci.yml
+!/.github/workflows/codeql.yml
 !/.github/workflows/resume-sync.yml
+!/.github/workflows/scorecard.yml
+!/.github/workflows/security.yml

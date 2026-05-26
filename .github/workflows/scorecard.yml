@@ -1,0 +1,50 @@
+name: OpenSSF Scorecard
+
+# Scores this repository's OpenSSF Scorecard posture (branch protection,
+# signed releases, SAST coverage, etc). Skipped on PR / merge_group
+# because Scorecard reads org-level state and the report is more useful
+# as a periodic snapshot of main than as a per-PR check.
+
+on:
+  branch_protection_rule:
+  schedule:
+    - cron: "0 8 * * 1"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: read-all
+
+concurrency:
+  group: scorecard-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  analysis:
+    name: Scorecard analysis
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      security-events: write
+      id-token: write
+      actions: read
+      contents: read
+
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+
+      - name: Run analysis
+        uses: ossf/scorecard-action@05b42c624433fc40578a4040d5cf5e36ddca8cde # v2.4.2
+        with:
+          results_file: results.sarif
+          results_format: sarif
+          publish_results: true
+
+      - name: Upload SARIF
+        uses: github/codeql-action/upload-sarif@e46ed2cbd01164d986452f91f178727624ae40d7 # v4.35.3
+        if: always()
+        continue-on-error: true
+        with:
+          sarif_file: results.sarif
