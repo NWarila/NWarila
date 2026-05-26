@@ -33,7 +33,7 @@
 
 # Allow the GitHub config directory so workflows and automation are versioned.
 !/.github/
-!/.github/dependabot.yml
+!/.github/renovate.json5
 !/.github/workflows/
 !/.github/workflows/ci.yml
 !/.github/workflows/resume-sync.yml
